@@ -17,6 +17,10 @@
 ```
 git clone git@github.com:GKoil/webChat.git
 ```
+3. Установить зависимости 
+```
+npm i
+```
 2. Ввести в консоли
 ```
 node index
